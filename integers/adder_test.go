@@ -1,3 +1,5 @@
+// Go is cool!
+
 package integers
 
 import (
